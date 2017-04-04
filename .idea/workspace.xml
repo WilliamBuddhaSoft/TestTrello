@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/base/webdriverfactory.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="333">
-              <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+              <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
               <folding>
                 <element signature="e#0#202#1" expanded="false" />
               </folding>
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base_requests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base_requests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/base_requests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2115">
+            <state relative-caret-position="498">
               <caret line="141" column="37" lean-forward="false" selection-start-line="141" selection-start-column="37" selection-end-line="141" selection-end-column="37" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -57,11 +57,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1491299538000" expanded="true" signature="98908:98913" ph="..." />
+                <marker date="1491299538000" expanded="true" signature="98908:98918" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="custom_logger.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilities/custom_logger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -71,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/utilities/teststatus.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="31" column="87" lean-forward="true" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
+              <caret line="31" column="87" lean-forward="false" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -83,18 +106,6 @@
             <state relative-caret-position="1410">
               <caret line="98" column="61" lean-forward="false" selection-start-line="98" selection-start-column="61" selection-end-line="98" selection-end-column="61" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="board_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/board_page/board_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -555,10 +566,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="798" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="798" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -849,52 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491299538000" expanded="true" signature="98908:98913" ph="..." />
-            <marker date="1491299538000" expanded="true" signature="98908:98918" ph="..." />
-            <marker date="1491299538000" expanded="true" signature="98908:98923" ph="..." />
-            <marker date="1491299538000" expanded="true" signature="98908:98931" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7291#7297#0" expanded="false" />
-            <element signature="e#7303#7309#0" expanded="false" />
-            <element signature="e#7311#7317#0" expanded="false" />
-            <element signature="e#7322#7328#0" expanded="false" />
-            <element signature="e#7330#7336#0" expanded="false" />
-            <element signature="e#7338#7344#0" expanded="false" />
-            <element signature="e#7346#7352#0" expanded="false" />
-            <element signature="e#7358#7364#0" expanded="false" />
-            <element signature="e#7366#7372#0" expanded="false" />
-            <element signature="e#7378#7384#0" expanded="false" />
-            <element signature="e#7386#7392#0" expanded="false" />
-            <element signature="e#7397#7403#0" expanded="false" />
-            <element signature="e#7555#7561#0" expanded="false" />
-            <element signature="e#7569#7575#0" expanded="false" />
-            <element signature="e#7577#7583#0" expanded="false" />
-            <element signature="e#7586#7592#0" expanded="false" />
-            <element signature="e#7594#7600#0" expanded="false" />
-            <element signature="e#7608#7614#0" expanded="false" />
-            <element signature="e#7616#7622#0" expanded="false" />
-            <element signature="e#7627#7633#0" expanded="false" />
-            <element signature="e#7635#7641#0" expanded="false" />
-            <element signature="e#7645#7651#0" expanded="false" />
-            <element signature="e#7653#7659#0" expanded="false" />
-            <element signature="e#7665#7671#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/main_page/main_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -960,7 +925,7 @@
     <entry file="file://$PROJECT_DIR$/utilities/custom_logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -976,7 +941,7 @@
     <entry file="file://$PROJECT_DIR$/utilities/teststatus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="31" column="87" lean-forward="true" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
+          <caret line="31" column="87" lean-forward="false" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
           <folding />
         </state>
       </provider>
@@ -1004,7 +969,7 @@
     <entry file="file://$PROJECT_DIR$/base/webdriverfactory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
-          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
           <folding>
             <element signature="e#0#202#1" expanded="false" />
           </folding>
@@ -1021,11 +986,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base/base_requests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
+        <state relative-caret-position="498">
           <caret line="141" column="37" lean-forward="false" selection-start-line="141" selection-start-column="37" selection-end-line="141" selection-end-column="37" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1491299538000" expanded="true" signature="98908:98913" ph="..." />
+            <marker date="1491299538000" expanded="true" signature="98908:98918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
